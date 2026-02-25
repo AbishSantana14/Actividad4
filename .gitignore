@@ -1,2 +1,5 @@
 node_modules/
 .env
+.Ds_Store
+dist/
+.env.local
